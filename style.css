@@ -121,6 +121,8 @@ body {
 .datetime-display p {
     margin: 5px 0;
     color: #495057;
+	font-size: 30px; /* 你期望的字体大小，例如 18px */
+	font-weight: bold;
 }
 
 .info-section h3 {
